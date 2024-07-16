@@ -1,8 +1,8 @@
 # AtliQ-Hospitality-Analysis#
-LIVE DASHBOARD LINK : https://app.powerbi.com/view?r=eyJrIjoiYTQxYzk3YTAtMzRiOS00YmIxLWFkMzctZDdiNjlmYjg2MjhiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+LIVE DASHBOARD LINK : https://app.powerbi.com/view?r=eyJrIjoiYTQxYzk3YTAtMzRiOS00YmIxLWFkMzctZDdiNjlmYjg2MjhiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=794c0983350c034c7500
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-VIDEO PRESENTATION LINK: 
+VIDEO PRESENTATION LINK: https://youtu.be/8WuoSfsrS7c
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Overview**
