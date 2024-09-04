@@ -50,6 +50,6 @@ Optimized Revenue Pricing Strategies: Data-driven approach allowed for dynamic p
 2. Understanding stakeholders requirement from mock up dashboard
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Repository Contents**
-1. Insights: contians key insigths from dashboard
+1. Insights: contains key insights from dashboard
 2. Recommendation: contains key recommendations from dashboard
-3. Data modelling : star and schema modelling between fact and dimension table
+3. Data modelling: star and schema modelling between fact and dimension table
